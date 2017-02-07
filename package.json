@@ -1,0 +1,19 @@
+{
+  "name": "tareas-iniciales-kevin-edna-joseluis",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ULL-ESIT-DSI-1617/tareas-iniciales-kevin-edna-joseluis.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ULL-ESIT-DSI-1617/tareas-iniciales-kevin-edna-joseluis/issues"
+  },
+  "homepage": "https://github.com/ULL-ESIT-DSI-1617/tareas-iniciales-kevin-edna-joseluis#readme"
+}
