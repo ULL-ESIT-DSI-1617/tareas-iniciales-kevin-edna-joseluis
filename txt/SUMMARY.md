@@ -3,13 +3,13 @@
 * [Introducción](README.md)
 
 * [MarkDown](CAPITULO1.md)
-    * [¿Qué es MarkDown?](CAPITULO1.md#1.1)
-    * [¿Cómo funciona y su sintaxis?](CAPITULO1.md#1.2)
-    * [¿Ventajas de usar Markdown?](CAPITULO1.md#1.3) 
+    * [¿Qué es MarkDown?](CAPITULO1.md#1-1)
+    * [¿Cómo funciona y su sintaxis?](CAPITULO1.md#1-2)
+    * [¿Ventajas de usar Markdown?](CAPITULO1.md#1-3) 
 
 * [GH-Pages](CAPITULO2.md)
     * [¿Qué es gh-pages?](CAPITULO2.md#¿Qué es gh-pages?)
-    * [gh-pages para usuarios u organizaciones](CAPITULO2.md#gh-pages para usuarios u organizaciones)
+    * [gh-pages para usuarios u organizaciones](CAPITULO2.md#gh-pages)
     * [gh-Pages para proyectos](CAPITULO2.md#gh-Pages para proyectos)
     
 * [Gitbook](CAPITULO3.md)
