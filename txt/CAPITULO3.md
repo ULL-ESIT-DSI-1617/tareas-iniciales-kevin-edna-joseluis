@@ -75,9 +75,10 @@
 ~~~
 
 *Una visión general de lo que cada uno hace es:*
-Fichero | Descripción
--- | --
-book.json	| Almacena datos de configuración (opcional)
-README.md | Introducción para su libro (obligatorio)
-SUMMARY.md | Tabla de contenido (opcional)
-GLOSSARY.md | Léxico / Lista de términos para anotar (opcional)
+
+| Fichero | Descripción |
+| :--: | :--: |
+|book.json	| Almacena datos de configuración (opcional)|
+|README.md | Introducción para su libro (obligatorio)|
+|SUMMARY.md | Tabla de contenido (opcional)|
+|GLOSSARY.md | Léxico / Lista de términos para anotar (opcional)|
