@@ -28,7 +28,7 @@ o vinculándolo como remoto:
 
 Una vez subidos todos los ficheros necesarios para el correcto funcionamiento de la página, podemos ir viendo los cambios de ésta desde la dirección *http://nombreDeUsuario.github.io*.
 
-##gh-Pages para proyectos##
+##gh-pages para proyectos##
 
 Además de generar un sitio web para nuestro usuario u organización, podemos hacerlo para nuestros proyectos. Para ello tenemos que crear un repositorio o ir a uno que ya tengamos creado.
 
