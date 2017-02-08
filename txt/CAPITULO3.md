@@ -12,6 +12,7 @@
      $ mkdir /PATH/TO/gitbook
      $ cd /PATH/TO/gitbook
   ~~~
+   
    *PASO 2: Ahora se necesita crear el package.json*
   ~~~
     $ npm init
@@ -21,7 +22,8 @@
   ~~~
     $ npm install -g gitbook-cli --save
   ~~~
-    *PASO 3: Iniciar GitBook*
+  
+   _PASO 3: Iniciar GitBook_
   ~~~
     $ gitbook init
   ~~~
@@ -52,9 +54,6 @@
     *.mobi
     *.pdf
   ~~~
-*PASO 2: Ahora se hace un push en el repositorio que has elegido*
-* [Pasos]
-{% youtube %}https://www.youtube.com/watch?v=kdpfRLpu0FQ {% endyoutube %}
 
 #Estructura de directorio
 
