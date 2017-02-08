@@ -11,7 +11,7 @@
 * [GH-Pages](CAPITULO2/CAPITULO2.md)
     * [¿Qué es gh-pages?](CAPITULO2/CAPITULO2.md#qué-es-gh-pages)
     * [gh-pages para usuarios u organizaciones](CAPITULO2/CAPITULO2.md#gh-pages-para-usuarios-u-organizaciones)
-    * [gh-Pages para proyectos](CAPITULO2/CAPITULO2.md#gh-pages para proyectos)
+    * [gh-Pages para proyectos](CAPITULO2/CAPITULO2.md#gh-pages-para-proyectos)
     
 * [Gitbook](CAPITULO3/CAPITULO3.md)
     * [¿Qué es Gitbook?](CAPITULO3/CAPITULO3.md#qué-es-gitbook)
@@ -36,4 +36,4 @@
     *[Utilidad y Soporte](CAPITULO6/CAPITULO6.md#utilidad-y-soporte)
     *[Conversiones](CAPITULO6/CAPITULO6.md#conversiones)
     *[Instalar Padoc](CAPITULO6/CAPITULO6.md#instalar-padoc)
-
+    
