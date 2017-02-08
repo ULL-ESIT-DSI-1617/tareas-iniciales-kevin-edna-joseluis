@@ -12,7 +12,7 @@ La principal diferencia entre Git y cualquier otro VCS
 es cómo Git modela sus datos. Conceptualmente,
 la mayoría de los demás sistemas almacenan la información como una lista de cambios en los archivos.
 
-![Sin titulo](images/git1.png)
+![Sin titulo](../images/git1.png)
 
 Git no modela ni almacena sus datos de este modo. En cambio,
 Git modela sus datos más como un conjunto de instantáneas de un mini sistema de archivos.
@@ -22,7 +22,7 @@ y guarda una referencia a esa instantánea. Para ser eficiente,
 si los archivos no se han modificado, Git no almacena el archivo de nuevo,
 sólo un enlace al archivo anterior idéntico que ya tiene almacenado.
 
-![Sin titulo](images/git2.png)
+![Sin titulo](../images/git2.png)
 
 
 ### Estados
@@ -37,7 +37,7 @@ Esto nos lleva a las tres secciones principales de un proyecto de Git:
 el directorio de Git (Git directory), el directorio de trabajo (working directory),
 y el área de preparación (staging area).
 
-![Sin titulo](images/estado.png)
+![Sin titulo](../images/estado.png)
 
 El flujo de trabajo básico en Git es algo así:
 
