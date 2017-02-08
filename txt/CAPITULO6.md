@@ -37,4 +37,4 @@ Instalar Pandoc en Windows es tan simple como ir a la [página de desarga oficia
 
 descargar el instalador, ejecutarlo y seguir los pasos hasta terminar la instalación
 
-![Instalar Pandoc](imagesinstalar_pandoc.png)
+![Instalar Pandoc](images/instalar_pandoc.png)
