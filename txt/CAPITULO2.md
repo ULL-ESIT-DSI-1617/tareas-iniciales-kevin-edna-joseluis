@@ -1,5 +1,7 @@
 #GH-Pages#
 
+![GH-Pages](images/ghpages.png)
+
 ##¿Qué es GH-Pages?##
 
 GH-Pages es un servicio de alojamiento web estático de GitHub que nos permite desplegar un sitio web en la nube, a partir de un repositorio de GitHub.
