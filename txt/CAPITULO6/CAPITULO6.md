@@ -33,8 +33,8 @@ También es posible obtener archivos PDF a partir de los formatos de entrada men
 
 Instalar Pandoc en Windows es tan simple como ir a la [página de desarga oficial](http://pandoc.org/installing.html)
 
-![Descargar Pandoc](images/descarga_pandoc.png)
+![Descargar Pandoc](../images/descarga_pandoc.png)
 
 descargar el instalador, ejecutarlo y seguir los pasos hasta terminar la instalación
 
-![Instalar Pandoc](images/instalar_pandoc.png)
+![Instalar Pandoc](../images/instalar_pandoc.png)
