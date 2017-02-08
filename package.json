@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/ULL-ESIT-DSI-1617/tareas-iniciales-kevin-edna-joseluis/issues"
   },
-  "homepage": "https://github.com/ULL-ESIT-DSI-1617/tareas-iniciales-kevin-edna-joseluis#readme"
+  "homepage": "https://github.com/ULL-ESIT-DSI-1617/tareas-iniciales-kevin-edna-joseluis#readme",
+  "dependencies": {
+    "gitbook": "^3.2.2",
+    "gitbook-cli": "^2.3.0"
+  }
 }
