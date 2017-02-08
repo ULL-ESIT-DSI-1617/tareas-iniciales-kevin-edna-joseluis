@@ -9,7 +9,7 @@
 
 # Campus Virtual
 
-Pon tu foto en tu perfil del campus virtual
+- Pon tu foto en tu perfil del campus virtual
 
 # Git
 
