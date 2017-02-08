@@ -1,7 +1,7 @@
 
 # ***NodeJS***
 
-![NodeJS](images/nodejs.png)
+![NodeJS](../images/nodejs.png)
 
 ## ¿Qué es NodeJS?
 

@@ -25,12 +25,12 @@ Como hemos visto en el ejemplo anterior, los encabezados se crean poniendo almoh
 
 Para **enfatizar**, usamos los asteriscos antes y después de las palabras. Dado que hay dos formas de enfatizar, cursivas y negritas, usaremos un asterisco antes y después para las cursivas y dos asteriscos para las negritas, ambos sin espacios.
 
-![Sin titulo](images/mark1.jpg)
+![Sin titulo](../images/mark1.jpg)
 
 En cuanto a las **listas**, dado que en HTML hay de dos tipos, numeradas y sin numerar (u ordenadas y desordenadas), usaremos números seguidos de un punto y un espacio para cada elemento en el caso de las primeras y asteriscos y un espacio (ahora sólo al principio), signos más o guiones para las segundas.
 
 
-![Sin titulo](images/mark2.jpg)
+![Sin titulo](../images/mark2.jpg)
 
 
 Estos son los elementos basicos. Para conocer más elementos de la sintaxis podemos dirigirnos a la pagina original de uno de sus creadores John Gruber : http://daringfireball.net/projects/markdown/syntax 
