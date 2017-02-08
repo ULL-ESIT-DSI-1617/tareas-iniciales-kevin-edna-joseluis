@@ -1,6 +1,6 @@
-# ***GH-pages***
+# ***gh-pages***
 
-![GH-Pages](images/ghpages.png)
+![gh-Pages](../images/ghpages.png)
 
 ##¿Qué es gh-pages?##
 
@@ -12,7 +12,7 @@ Sin embargo, GH-Pages no soporta código del lado del servidor como *PHP*, *Ruby
 
 Para crear un sitio web para nuestro usuario u organización, tenemos que ir a GitHub y crear un nuevo repositorio que, forzosamente debe empezar con nuestro nombre de usuario u organización seguido de *github.io*. Por ejemplo *nombreDeUsuario.github.io*.
 
-![Crear nuevo repositorio](images/new_repo.PNG "Crear nuevo repositorio")
+![Crear nuevo repositorio](../images/new_repo.PNG "Crear nuevo repositorio")
 
 Con el nuevo repositorio ya creado, podemos empezar a crear commits y subir los ficheros al repositorio, tal como haríamos con cualquier otro, ya se clonándolo:
 
@@ -32,7 +32,7 @@ Una vez subidos todos los ficheros necesarios para el correcto funcionamiento de
 
 Además de generar un sitio web para nuestro usuario u organización, podemos hacerlo para nuestros proyectos. Para ello tenemos que crear un repositorio o ir a uno que ya tengamos creado.
 
-![Repositorio ya creado](images/old_repo.PNG "Repositorio ya creado")
+![Repositorio ya creado](../images/old_repo.PNG "Repositorio ya creado")
 
 Cuando hayamos creado todos los commits y subido los ficheros necesarios para la página (al igual que hicimos anteriormente para usuarios u organizaciones), creamos una nueva rama con el nombre *gh-pages*:
 
