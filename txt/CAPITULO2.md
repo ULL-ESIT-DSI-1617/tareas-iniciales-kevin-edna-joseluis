@@ -14,11 +14,15 @@ Para crear un sitio web para nuestro usuario u organización, tenemos que ir a G
 
 Con el nuevo repositorio ya creado, podemos empezar a crear commits y subir los ficheros al repositorio, tal como haríamos con cualquier otro, ya se clonándolo:
 
-> git clone https://github.com/nombreDeUsuario/nombreDeUsuario.github.io
+~~~~
+    git clone https://github.com/nombreDeUsuario/nombreDeUsuario.github.io
+~~~~
 
 o vinculándolo como remoto:
 
-> git remote add origin https://github.com/nombreDeUsuario/nombreDeUsuario.github.io
+~~~~
+    git remote add origin https://github.com/nombreDeUsuario/nombreDeUsuario.github.io
+~~~~
 
 Una vez subidos todos los ficheros necesarios para el correcto funcionamiento de la página, podemos ir viendo los cambios de ésta desde la dirección *http://nombreDeUsuario.github.io*.
 
@@ -30,10 +34,14 @@ Además de generar un sitio web para nuestro usuario u organización, podemos ha
 
 Cuando hayamos creado todos los commits y subido los ficheros necesarios para la página (al igual que hicimos anteriormente para usuarios u organizaciones), creamos una nueva rama con el nombre *gh-pages*:
 
-> git branch gh-pages
+~~~~
+    git branch gh-pages
+~~~~
 
 Ahora simplemente empujamos esos cambios de nuestro repositorio lolal a nuestro repositorio remoto:
 
-> git push origin gh-pages
+~~~~
+    git push origin gh-pages
+~~~~
 
 Una vez hecho ésto, podemos ir viendo los cambios del sitio web desde la dirección *http://nombreDeUsuario.github.io/repositorio*.
