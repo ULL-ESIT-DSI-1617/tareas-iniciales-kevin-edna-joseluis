@@ -18,17 +18,17 @@
 ### Autores
 
 José Luis Doblado González  
-[Github](https://github.com/alu0100767001)
-[Pagina personal]()
+* [Github](https://github.com/alu0100767001)
+* [Pagina personal]()
 
 
 Edna Liliana Galiano Camacho  
-[Github](https://github.com/ednagc)
-[Pagina personal]()
+* [Github](https://github.com/ednagc)
+* [Pagina personal]()
 
 Kevin Estévez Expósito  
-[Github](https://github.com/alu0100821390)
-[Pagina personal]()
+* [Github](https://github.com/alu0100821390)
+* [Pagina personal]()
 
 
 ### Libro en Gitbook
