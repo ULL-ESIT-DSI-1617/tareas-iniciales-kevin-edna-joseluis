@@ -3,9 +3,9 @@
 * [Introducción](README.md)
 
 * [MarkDown](CAPITULO1.md)
-    * [¿Qué es MarkDown?](CAPITULO1.md#¿Qué es MarkDown?)
-    * [¿Cómo funciona y su sintaxis?](CAPITULO1.md#¿Cómo funciona y su sintaxis?)
-    * [¿Ventajas de usar Markdown?](CAPITULO1.md#¿Ventajas de usar Markdown?) 
+    * [¿Qué es MarkDown?](CAPITULO1.md#1.1)
+    * [¿Cómo funciona y su sintaxis?](CAPITULO1.md#1.2)
+    * [¿Ventajas de usar Markdown?](CAPITULO1.md#1.3) 
 
 * [GH-Pages](CAPITULO2.md)
     * [¿Qué es gh-pages?](CAPITULO2.md#¿Qué es gh-pages?)
