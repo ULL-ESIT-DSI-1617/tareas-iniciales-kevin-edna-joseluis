@@ -32,8 +32,8 @@
     * [Inicializando Repositorio](CAPITULO5/CAPITULO5.md#inicializando-repositorio)
 
 * [Pandoc](CAPITULO6/CAPITULO6.md)
-    *[¿Qué es Pandoc?](CAPITULO6/CAPITULO6.md#qué-es-pandoc)
-    *[Utilidad y Soporte](CAPITULO6/CAPITULO6.md#utilidad-y-soporte)
-    *[Conversiones](CAPITULO6/CAPITULO6.md#conversiones)
-    *[Instalar Padoc](CAPITULO6/CAPITULO6.md#instalar-padoc)
+    * [¿Qué es Pandoc?](CAPITULO6/CAPITULO6.md#qué-es-pandoc)
+    * [Utilidad y Soporte](CAPITULO6/CAPITULO6.md#utilidad-y-soporte)
+    * [Conversiones](CAPITULO6/CAPITULO6.md#conversiones)
+    * [Instalar Padoc](CAPITULO6/CAPITULO6.md#instalar-padoc)
     
