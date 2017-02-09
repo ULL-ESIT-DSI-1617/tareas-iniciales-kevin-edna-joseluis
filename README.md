@@ -28,7 +28,7 @@ Edna Liliana Galiano Camacho
 
 Kevin Estévez Expósito  
 * [Github](https://github.com/alu0100821390)
-* [Pagina personal]()
+* [Pagina personal](http://alu0100821390.github.io)
 
 
 ### Libro 
