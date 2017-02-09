@@ -21,15 +21,15 @@ Los paquetes de npm se deben instalar desde el símbolo del sistema de NodeJS.
 
 La instalación de NodeJS en Windows es tan sencilla como descargar el instalador desde la [página](https://nodejs.org/es/) de NodeJS
 
-![Descargar NodeJS](../images/descargar_nodejs.PNG)
+![Descargar NodeJS](../images/descargar_nodejs.png)
 
-ejecutarlo, y seguir los pasos del instalador
+Lo ejecutamos, y seguimos los pasos del instalador
 
-![Instalador NodeJS](../images/instalar_nodejs.PNG)
+![Instalador NodeJS](../images/instalar_nodejs.png)
 
 Una vez finalizado tendremos instaladas dos aplicaciones, el propio intérprete NodeJS y el símbolo del sistema de NodeJS, desde el cual instalamos los paquetes npm, como por ejemplo, Gitbook, con los siguientes comandos:
 
 ~~~
-    npm install -g gitbook-cli
-    npm install -g gitbook
+    $ npm install -g gitbook-cli
+    $ npm install -g gitbook
 ~~~

@@ -9,41 +9,41 @@
   PASO 0: Hay que tener instalado node.js
 
   PASO 1: Crear con el comando mkdir un directorio gitbook donde trabajar:
-  ~~~
-     $ mkdir /PATH/TO/gitbook
-     $ cd /PATH/TO/gitbook
-  ~~~
+~~~
+    $ mkdir /PATH/TO/gitbook
+    $ cd /PATH/TO/gitbook
+~~~
    
    PASO 2: Ahora se necesita crear el package.json
-  ~~~
+~~~
     $ npm init
-  ~~~
+~~~
 
   No se necesita responder a las preguntas que el comando anterior pregunte, solo presionar enter. La información que se necesita se inyectará en el archivo package.json mediante el siguiente comando:
-  ~~~
+~~~
     $ npm install -g gitbook-cli --save
-  ~~~
+~~~
   
-   _PASO 3: Iniciar GitBook_
-  ~~~
+   PASO 3: Iniciar GitBook_
+~~~
     $ gitbook init
-  ~~~
+~~~
 
 Para crear los html
 
 ~~~
-  $ gitbook build
+    $ gitbook build
 ~~~
     NOTA:
     GitBook permite probar el libro antes de empujarlo a la web con el comando:
-  ~~~
+~~~
     $ gitbook serve
-  ~~~
+~~~
 #¿Cómo desplegar un libro?
 
 
   PASO 1: Crear un nuevo fichero llamado book.js
-  ~~~
+~~~
     # Node rules:
     ### Grunt intermediate storage (http://gruntjs.com/creating-plugins#storing-task-files).grunt
     ### Dependency directory
@@ -54,7 +54,7 @@ Para crear los html
     .epub
     .mobi
     .pdf
-  ~~~
+~~~
 
 #Estructura de directorio
 
@@ -62,16 +62,16 @@ GitBook utiliza una estructura de directorios sencilla. Todos los archivos de Ma
 
 Un GitBook básico suele ser algo como esto:
 ~~~
-.
-├── book.json
-├── README.md
-├── SUMMARY.md
-├── chapter-1/
-|   ├── README.md
-|   └── something.md
-└── chapter-2/
+    .
+    ├── book.json
     ├── README.md
-    └── something.md
+    ├── SUMMARY.md
+    ├── chapter-1/
+    |   ├── README.md
+    |   └── something.md
+    └── chapter-2/
+        ├── README.md
+        └── something.md
 ~~~
 
 Una visión general de lo que cada uno hace es:

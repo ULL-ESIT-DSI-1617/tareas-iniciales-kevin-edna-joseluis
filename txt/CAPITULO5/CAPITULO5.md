@@ -54,29 +54,29 @@ curl, zlib, openssl, expat y libiconv. Por ejemplo, si estás en un sistema que 
 (como Fedora) o apt-get (como un sistema basado en Debian), 
 puedes usar estos comandos para instalar todas las dependencias:
 ~~~
-$ yum install curl-devel expat-devel gettext-devel \
-  openssl-devel zlib-devel
+    $ yum install curl-devel expat-devel gettext-devel \
+      openssl-devel zlib-devel
 
-$ apt-get install libcurl4-gnutls-dev libexpat1-dev gettext \
-  libz-dev libssl-dev
+    $ apt-get install libcurl4-gnutls-dev libexpat1-dev gettext \
+      libz-dev libssl-dev
 ~~~
 
 Cuando tengas todas las dependencias necesarias, puedes descargar la versión más reciente de Git desde su página web:
 ~~~
-< http://git-scm.com/download >
+    < http://git-scm.com/download >
 ~~~
 
 Luego compila e instala:
 ~~~
-$ tar -zxf git-1.6.0.5.tar.gz
-$ cd git-1.6.0.5
-$ make prefix=/usr/local all
-$ sudo make prefix=/usr/local install
+    $ tar -zxf git-1.6.0.5.tar.gz
+    $ cd git-1.6.0.5
+    $ make prefix=/usr/local all
+    $ sudo make prefix=/usr/local install
 ~~~
 
 Una vez hecho esto, también puedes obtener Git, a través del propio Git, para futuras actualizaciones:
 ~~~
-$ git clone git://git.kernel.org/pub/scm/git/git.git
+    $ git clone git://git.kernel.org/pub/scm/git/git.git
 ~~~
 
 
@@ -84,7 +84,7 @@ $ git clone git://git.kernel.org/pub/scm/git/git.git
 
 Si estás empezando el seguimiento en Git de un proyecto existente, necesitas ir al directorio del proyecto y escribir:
 ~~~
-$ git init
+    $ git init
 ~~~
 Esto crea un nuevo subdirectorio llamado .git que contiene todos los archivos necesarios
 del repositorio —un esqueleto de un repositorio Git.
@@ -94,7 +94,7 @@ Si deseas empezar a controlar versiones de archivos existentes
 archivos y hacer una confirmación inicial. Puedes conseguirlo con unos pocos comandos git add
 para especificar qué archivos quieres controlar, seguidos de un commit para confirmar los cambios:
 ~~~
-$ git add *.c
-$ git add README
-$ git commit –m 'versión inicial del proyecto'
+    $ git add *.c
+    $ git add README
+    $ git commit –m 'versión inicial del proyecto'
 ~~~
