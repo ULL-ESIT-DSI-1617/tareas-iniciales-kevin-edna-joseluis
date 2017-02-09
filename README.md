@@ -24,7 +24,7 @@ José Luis Doblado González
 
 Edna Liliana Galiano Camacho  
 * [Github](https://github.com/ednagc)
-* [Pagina personal]()
+* [Pagina personal](https://ednagc.github.io/edna-galiano/)
 
 Kevin Estévez Expósito  
 * [Github](https://github.com/alu0100821390)
