@@ -5,7 +5,7 @@
 
 * [MarkDown](CAPITULO1/CAPITULO1.md)
     * [¿Qué es MarkDown?](CAPITULO1/CAPITULO1.md#qué-es-markdown)
-    * [¿Cómo funciona y su sintaxis?](CAPITULO1/CAPITULO1.md#cómo-funciona-y-su-sintaxis)
+    * [¿Cómo funciona y su sintaxis?](CAPITULO1/CAPITULO1.md#markdown2)
     * [¿Ventajas de usar Markdown?](CAPITULO1/CAPITULO1.md#ventajas-de-usar-markdown) 
 
 * [GH-Pages](CAPITULO2/CAPITULO2.md)
