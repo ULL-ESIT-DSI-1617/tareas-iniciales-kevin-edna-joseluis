@@ -31,7 +31,7 @@ Kevin Estévez Expósito
 * [Pagina personal]()
 
 
-### Libro en Gitbook
+### Libro 
 
 [Despliege del libro en gh-pages](https://ull-esit-dsi-1617.github.io/tareas-iniciales-kevin-edna-joseluis/)
 
