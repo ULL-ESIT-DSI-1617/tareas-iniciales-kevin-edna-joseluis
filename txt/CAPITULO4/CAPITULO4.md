@@ -3,7 +3,7 @@
 
 ![NodeJS](../images/nodejs.png)
 
-## ¿Qué es NodeJS?
+## Qué es NodeJS
 
 NodeJS es un entorno de programación del lado del servidor que se basa en Javascript y su arquitectura está orientada a eventos. Está pensado para la programación asíncrona y, con él, somos capaces de mejorar el rendimiento de una Web que necesite actualizar sus datos constantemente.
 
@@ -11,7 +11,7 @@ Su meta es permitir a un programador construir aplicaciones altamente escalables
 
 NodeJS, además, contiene varios módulos que nos permiten hacer un mejor uso de este lenguaje. Estos módulos suelen instalarse a través del Node Package Manager (npm), el cual facilita la compilación, instalación y actualización de los módulos que vayamos a utilizar.
 
-## ¿Qué es npm?
+## Qué es npm
 
 npm (Node Package Manager) es un gestor de paquetes de NodeJS, que nos permite descargar librerías y enlazarlas, o descargar programas de JS.
 
