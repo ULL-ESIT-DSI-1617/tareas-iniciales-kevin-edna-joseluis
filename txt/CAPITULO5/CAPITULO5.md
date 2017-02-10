@@ -1,12 +1,12 @@
 # ***Git***
-# ¿Qué es Git?
+## Qué es Git
 
 Git es un software de control de versiones,
 pensando en la eficiencia y la confiabilidad del mantenimiento de versiones de aplicaciones cuando éstas tienen un gran número de archivos de código fuente.
 Git se ha convertido en sistema de control de versiones con funcionalidad plena.
 
 
-### Instantáneas
+## Instantáneas
 
 La principal diferencia entre Git y cualquier otro VCS 
 es cómo Git modela sus datos. Conceptualmente,
@@ -25,7 +25,7 @@ sólo un enlace al archivo anterior idéntico que ya tiene almacenado.
 ![Sin titulo](../images/git2.png)
 
 
-### Estados
+## Estados
 
 Git tiene tres estados principales en los que se pueden encontrar tus archivos:
 confirmado (committed), modificado (modified), y preparado (staged).
@@ -47,7 +47,7 @@ El flujo de trabajo básico en Git es algo así:
 y almacena esas instantáneas de manera permanente en tu directorio de Git.
 
 
-### Instalación
+## Instalación
 
 Para instalar Git, necesitas tener las siguientes librerías de las que Git depende:
 curl, zlib, openssl, expat y libiconv. Por ejemplo, si estás en un sistema que tiene yum
@@ -80,7 +80,7 @@ Una vez hecho esto, también puedes obtener Git, a través del propio Git, para 
 ~~~
 
 
-### Inicializando Repositorio
+## Inicializando Repositorio
 
 Si estás empezando el seguimiento en Git de un proyecto existente, necesitas ir al directorio del proyecto y escribir:
 ~~~

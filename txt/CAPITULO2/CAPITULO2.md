@@ -2,13 +2,13 @@
 
 ![gh-Pages](../images/ghpages.png)
 
-##¿Qué es gh-pages?##
+## Qué es gh-pages
 
 GH-Pages es un servicio de alojamiento web estático de GitHub que nos permite desplegar un sitio web en la nube, a partir de un repositorio de GitHub.
 
 Sin embargo, GH-Pages no soporta código del lado del servidor como *PHP*, *Ruby* o *Python*.(https://help.github.com/articles/user-organization-and-project-pages/).
 
-##gh-pages para usuarios u organizaciones##
+## gh-pages para usuarios u organizaciones
 
 Para crear un sitio web para nuestro usuario u organización, tenemos que ir a GitHub y crear un nuevo repositorio que, forzosamente debe empezar con nuestro nombre de usuario u organización seguido de *github.io*. Por ejemplo *nombreDeUsuario.github.io*.
 
@@ -28,7 +28,7 @@ o vinculándolo como remoto:
 
 Una vez subidos todos los ficheros necesarios para el correcto funcionamiento de la página, podemos ir viendo los cambios de ésta desde la dirección *http://nombreDeUsuario.github.io*.
 
-##gh-pages para proyectos##
+## gh-pages para proyectos
 
 Además de generar un sitio web para nuestro usuario u organización, podemos hacerlo para nuestros proyectos. Para ello tenemos que crear un repositorio o ir a uno que ya tengamos creado.
 

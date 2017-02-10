@@ -2,11 +2,11 @@
 # ***MarkDown***
 
 
-## ¿Qué es MarkDown?  
+## Qué es MarkDown
 
 Markdown es un lenguaje de marcado que facilita la aplicación de formato a un texto empleando una serie de caracteres de una forma especial. En principio, fue pensado para elaborar textos cuyo destino iba a ser la web con más rapidez y sencillez que si estuviésemos empleando directamente HTML. Y si bien ese suele ser el mejor uso que podemos darle, también podemos emplearlo para cualquier tipo de texto, independientemente de cual vaya a ser su destino.  Markdown es realmente dos cosas: por un lado, el lenguaje; por otro, una herramienta de software que convierte el lenguaje en HTML válido.
 
-## ¿Cómo funciona y su sintaxis?
+## Cómo funciona y su sintaxis
 
 Para entenderlo mejor, veámos el siguiente ejemplo: Queremos escribir un encabezado de nivel 1. Esto en HTML se hace con la etiqueta h1. Por lo tanto, escribiríamos la correspondiente sintaxis, sin embargo, con 
 Markdown no necesitaríamos escribir la etiqueta, sino tan sólo poner una almohadilla al principio:
@@ -36,7 +36,7 @@ En cuanto a las **listas**, dado que en HTML hay de dos tipos, numeradas y sin n
 Estos son los elementos basicos. Para conocer más elementos de la sintaxis podemos dirigirnos a la pagina original de uno de sus creadores John Gruber : http://daringfireball.net/projects/markdown/syntax 
 (Para contenido en español tenemos la pagina de Joe Di Castro : http://joedicastro.com/pages/markdown.html )
 
-## ¿Ventajas de usar Markdown?
+## Ventajas de usar Markdown
 
 ##### *Escribir para web es más rápido y cómodo*
 

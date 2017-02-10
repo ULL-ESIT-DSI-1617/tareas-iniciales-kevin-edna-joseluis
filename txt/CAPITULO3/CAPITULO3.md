@@ -1,8 +1,9 @@
 # ***GitBook***
-#¿Qué es GitBook?
+## Qué es GitBook
 
   GitBook es una herramienta para crear documentación de proyectos y libros técnicos
-#¿Cómo se utiliza?
+  
+## Cómo se utiliza
 
   Se trabaja, utilizando Markdown y Github.
 
@@ -39,7 +40,7 @@ Para crear los html
 ~~~
     $ gitbook serve
 ~~~
-#¿Cómo desplegar un libro?
+## Cómo desplegar un libro
 
 
   PASO 1: Crear un nuevo fichero llamado book.js
@@ -56,7 +57,7 @@ Para crear los html
     .pdf
 ~~~
 
-#Estructura de directorio
+## Estructura de directorio
 
 GitBook utiliza una estructura de directorios sencilla. Todos los archivos de Markdown / Asciidoc enumerados en el SUMMARy se transformarán en HTML. Los libros multilingües tienen una estructura ligeramente diferente.
 

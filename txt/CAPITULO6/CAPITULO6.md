@@ -1,7 +1,7 @@
 
 # ***Pandoc***
 
-## ¿Qué es Pandoc?
+## Qué es Pandoc
 
 Pandoc es un conversor de documentos libre y de código abierto, mayormente usado como una herramienta de escritura, y es una base para la publicación de flujos de trabajo. Fue creado originalmente por John MacFarlane, un profesor de Filosofía en la Universidad de California, Berkeley.
 
@@ -29,7 +29,7 @@ Pandoc puede convertir desde Markdown (extendido o estricto), reStructuredText, 
 
 También es posible obtener archivos PDF a partir de los formatos de entrada mencionados, por medio de un script, eso si.
 
-## Instalar Padoc
+## Instalar Pandoc
 
 Instalar Pandoc en Windows es tan simple como ir a la [página de desarga oficial](http://pandoc.org/installing.html)
 
