@@ -35,5 +35,12 @@ Kevin Estévez Expósito
 
 [Despliege del libro en gh-pages](https://ull-esit-dsi-1617.github.io/tareas-iniciales-kevin-edna-joseluis/)
 
-[Despliegue del libro en gitbook](Falta)
+[Despliegue del libro en gitbook](https://ednagc.gitbooks.io/tareas-iniciales-kevin-edna-joseluis/)
+* [Introduccion](txt/README.md)
+* [Capitulo 1 (MarkDown)](txt/CAPITULO1/CAPITULO1.md)
+* [Capitulo 2 (gh-pages)](txt/CAPITULO2/CAPITULO2.md)
+* [Capitulo 3 (GitBook)](txt/CAPITULO3/CAPITULO3.md)
+* [Capitulo 4 (NodeJS)](txt/CAPITULO4/CAPITULO4.md)
+* [Capitulo 5 (Git)](txt/CAPITULO5/CAPITULO5.md)
+* [Capitulo 6 (Pandoc)](txt/CAPITULO6/CAPITULO6.md)
 
