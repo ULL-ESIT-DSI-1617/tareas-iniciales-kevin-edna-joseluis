@@ -19,7 +19,7 @@
 
 José Luis Doblado González  
 * [Github](https://github.com/alu0100767001)
-* [Pagina personal]()
+* [Pagina personal](https://alu0100767001.github.io/dsi-joseluis/)
 
 
 Edna Liliana Galiano Camacho  
