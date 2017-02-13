@@ -35,7 +35,7 @@ Kevin Estévez Expósito
 
 [Despliegue del libro en gitbook](https://ednagc.gitbooks.io/tareas-iniciales-kevin-edna-joseluis/)
 
-## Enlace descripción Prática
+## Enlace descripción Práctica
 
 [Practica 1](https://casianorodriguezleon.gitbooks.io/ull-esit-1617/practicas/practicatareasiniciales.html)
 
