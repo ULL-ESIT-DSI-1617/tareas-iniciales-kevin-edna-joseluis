@@ -96,12 +96,3 @@ Kevin Estévez Expósito
 
 - Prepara tus páginas de prácticas en github.io usando un esquema parecido al de esta alumna de manera que tengas un histórico de prácticas de la asignatura. Tu página principal enlaza a tus prácticas en las asignaturas del grado.
 
-### Requisitos
-
-- Crea un tutorial - escríbelo en GitBook - sobre la realización de esta práctica incluyendo el proceso de instalación de nodeJS, de git, pandoc etc. en tu máquina- Incluye capturas de pantalla
-    - Hagan una jerarquía de directorios por capítulos repartiendo capítulos entre los miembros del equipo
-    - Cada capítulo trata de un tema: MarkDown, gh-pages, etc.
-- Publícalo como libro en GitBook y en GitHub usando gh-pages.
-- Deberán hacerse "issues" utilizando los "issues" de GitHub
-- Deberá hacerse un proyecto GitHub asociado al repo para gestionar las tareas
-- Usa el proyecto en c9.io para familiarizarte con c9
