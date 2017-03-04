@@ -33,7 +33,9 @@ Kevin Estévez Expósito
 
 [Despliege del libro en gh-pages](https://ull-esit-dsi-1617.github.io/tareas-iniciales-kevin-edna-joseluis/)
 
-[Despliegue del libro en gitbook](https://ednagc.gitbooks.io/tareas-iniciales-kevin-edna-joseluis/)
+[Despliegue del libro en gitbook](https://ednagc.gitbooks.io/tareas-iniciales-kevin-edna-joseluis/) - Edna Liliana Galiano Camacho
+
+[Despliegue del libro en gitbook](https://alu0100821390.gitbooks.io/tareas-iniciales-kevin-edna-joseluis/) - Kevin Estévez Expósito
 
 ## Enlace descripción Práctica
 
